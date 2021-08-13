@@ -20,8 +20,8 @@ const Nav = () => {
 
     return (
         <nav className={`nav ${show && "nav__black"}`}>
-            <img className='nav__logo' src="http://assets.stickpng.com/images/580b57fcd9996e24bc43c529.png" alt="NetFlix Logo" />
-            <img className='nav__avatar' src="https://www.pngitem.com/pimgs/m/256-2560255_user-icon-user-white-icon-transparent-hd-png.png" alt="user login" />
+            <img className='nav__logo' src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRF6-cXZHF9zeyx0mlcYdXCGm9WJs4dDDZclA&usqp=CAU" alt="NetFlix Logo" />
+            <img className='nav__avatar' src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1nLMoUrHQq1IrsIjeE56t5bstlCQt4QLnjQ&usqp=CAU" alt="user login" />
         </nav>
     )
 }

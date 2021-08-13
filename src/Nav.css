@@ -13,7 +13,7 @@
 }
 
 .nav__black{
-    background-color: rgba(17, 17, 17, 0.932);
+    background-color: rgb(17, 17, 17);
 }
 
 .nav__logo{
@@ -28,5 +28,5 @@
     right: 20px;
     width: 30px;
     object-fit: contain;
-    border-radius: 50%;
+    border-radius: 45%;
 }
